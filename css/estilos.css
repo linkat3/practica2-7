@@ -1,0 +1,12 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    border-bottom: 1px solid black;
+}
+
+.p1 {
+    text-shadow: lightgray;
+    color: darkblue;
+}
+
